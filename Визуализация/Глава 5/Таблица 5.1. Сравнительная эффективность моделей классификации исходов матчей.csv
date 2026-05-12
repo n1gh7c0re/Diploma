@@ -1,0 +1,5 @@
+Модель,Accuracy (1X2),ROC-AUC (macro),Log-Loss
+LogisticRegression,0.6464,0.812,0.769
+RandomForest,0.7407,0.903,0.5818
+XGBoost,0.7552,0.914,0.5259000062942505
+CatBoost,0.7599,0.916,0.533

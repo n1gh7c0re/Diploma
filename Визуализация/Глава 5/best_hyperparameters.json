@@ -1,0 +1,33 @@
+{
+    "RandomForest": {
+        "n_estimators": 300,
+        "min_samples_split": 10,
+        "max_depth": 20
+    },
+    "XGBoost": {
+        "subsample": 1.0,
+        "n_estimators": 200,
+        "max_depth": 6,
+        "learning_rate": 0.05,
+        "colsample_bytree": 1.0
+    },
+    "CatBoost": {
+        "learning_rate": 0.05,
+        "l2_leaf_reg": 3,
+        "iterations": 400,
+        "depth": 4
+    },
+    "XGBoost_reg": {
+        "subsample": 1.0,
+        "n_estimators": 700,
+        "max_depth": 5,
+        "learning_rate": 0.05,
+        "colsample_bytree": 1.0
+    },
+    "CatBoost_reg": {
+        "learning_rate": 0.03,
+        "l2_leaf_reg": 1,
+        "iterations": 300,
+        "depth": 5
+    }
+}

@@ -1,0 +1,14 @@
+Признак,Важность
+overall,0.58685845
+potential,0.31272948
+age,0.08401728
+dribbling,0.007549996
+player_positions,0.0042473176
+shooting,0.0028715055
+club_name,0.0009704739
+defending,0.0005569876
+passing,8.3242645e-05
+league_name,7.51223e-05
+physic,1.44416335e-05
+pace,1.38142295e-05
+height_cm,1.1792865e-05
